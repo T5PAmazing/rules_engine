@@ -1,3 +1,3 @@
 # rules_engine
 
-Hier ist die Doku der Rules Engine hinterlegt.....
+Hier ist das Readme der Rules Engine hinterlegt.
